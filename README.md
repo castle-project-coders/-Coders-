@@ -11,8 +11,6 @@ Good End: You have protected you kingdom and your kingdom discovered new things
 
 Bad End: To not protect the Kingdom and the king isn't proud of you 
 
-What we are going to do next: Thinking of the game's story and components, improve the design, assemble level maps and coding player movement, code player weapons and enemies, publish the game to online word.
-
 Contribute: If you discover bugs or have suggestions for enhancements, please open an issue or submit a pull request. Your contributions are essential in refining the Kingdom's Secret Chronicles!
 
 Credits: This captivating adventure is a creation of #Coders. Special acknowledgments to Mrs. Alaa Ashraf Embark on this journey, make wise choices, and let the destiny of the kingdom unfold in the Chronicles!
