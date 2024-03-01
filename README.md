@@ -1,4 +1,4 @@
-Journey Through the Kingdom
+The Holy Defend
 Introduction: You are Adolf the strongest warriors in the kingdom, your kingdom found a new material that has secret powers which gave them the power to solve their problems to achieve developments for their kingdom one of them improve their bows, other kingdom noticed that and sent their warriors to get it, and you could protect it, or you don’t!
 
 Day 1: Battle Unleashed. Your king knew that there were warriors coming to take the material and coming in three waves, your quest begins with a fierce battle against the warriors of the rival kingdom. Choose between eliminating them completely.
